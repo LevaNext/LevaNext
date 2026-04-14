@@ -84,8 +84,3 @@ Team-leading, task organization and improving architecture are a strong part of 
 - Writing cleaner, more scalable code  
 
 ---
-
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
-</div>
